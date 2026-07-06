@@ -14,5 +14,3 @@ This repository contains the code used to model slow coherence oscillations (SCO
 "randomised_connectome.m" (edge-permuted connectomes) and "a2a_lorentz.m" (all-to-all network with Lorentzian frequencies) are the null models, and produce no periodic order parameter dynamics. "toy_hfreq.m" and "toy_hcoupling.m" are two-module toy models that sweep, respectively, intrinsic frequency and local coupling to validate the analytic beat expression.
 
 "predicted_sco_frequencies.py" takes precomputed phase timeseries and, per network, reports the predicted SCO frequency (the difference between hemispheric synchronization frequencies) against the observed SCO frequency, writing a CSV table. "competitive_entrainment.m" takes a temporo-parietal phase timeseries and returns a wavelet transform of a sensory node alternating between network and stimulus entrainment. "gain_modulation.m" scales connectivity within one temporo-parietal hemisphere and measures the resulting SCO frequency across gain values, with and without delays.
-
-If there are any questions regarding this code or the manuscript that uses it please address them to Rishabh Bapat.
