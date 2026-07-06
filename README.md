@@ -1,5 +1,5 @@
 # Attentional-Modes
-Code associated with the manuscript "Dancing to the beats of the mammalian connectome: Asymmetric Dynamics Shape Rhythmic Brain Integration"
+Code associated with the manuscript "Dancing to the beats of the mammalian connectome: Asymmetric Dynamics Shape Rhythmic Brain Integration" (https://www.biorxiv.org/content/10.64898/2026.07.01.735524v1)
 
 The study uses computationla models of the whole brain to examine how the structure of mammalian connectomes can generate periodic changes in information gating and alternating modes of attention.
 
